@@ -1,13 +1,11 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/its_marro">
-  <img align="left" alt="Marro | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Marro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-
+<p align="left">
+<a href="https://twitter.com/its_marro" target="_blank"><img height="30" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/mar76.4/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <br />
 
 Hi, I'm [Marro](http://marrcode.de/), a passionate self-taught Full Stack web developer, a Data science student, and a digital artist, based in Germany.
