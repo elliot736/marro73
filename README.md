@@ -3,15 +3,15 @@
 
 <p align="left">
 <a href="https://twitter.com/its_marro" target="_blank"><img height="30" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#" target="_blank"><img height="30" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/mar76.4/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br />
+  <img align="right" alt="rick" src="https://raw.githubusercontent.com/marro73/marro73/main/Resources/png/rick.png?raw=true" width="200" height="320" />
 
-Hi, I'm [Marro](http://marrcode.de/), a passionate self-taught Full Stack web developer, a Data science student, and a digital artist, based in Germany.
+Hi, I'm [Marro](http://marrcode.de/), a passionate self-taught web developer, a Data science student, and a digital artist, based in Germany.
 
 
-  <img align="right" alt="png" src="https://github.com/code.gif?raw=true" width="500" height="320" />
   
 - 📫 reach me on: [@its_marro](https://twitter.com/its_marro);
 
@@ -26,5 +26,12 @@ Hi, I'm [Marro](http://marrcode.de/), a passionate self-taught Full Stack web de
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marro73&show_icons=true&theme=radical)
+](https://github.com/marro73/github-readme-stats)
 
 
