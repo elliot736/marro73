@@ -5,7 +5,7 @@
 
 <br />
 
- I'm [Marro](http://marrcode.me/),
+ I'm [Marro],
  ```
  - Passionate self-taught web developer 🔥.
  - Data science student 👨‍💻.
