@@ -14,7 +14,6 @@
 ```
 
   
-- 📫 Reach me out on: [@its_marro](https://twitter.com/its_marro);
 
 **Languages and Tools:**  
 
