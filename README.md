@@ -5,7 +5,7 @@
 
 <br />
 
- I'm Marro,
+ I'm Elliot,
  ```
  - Passionate self-taught web developer 🔥.
  - Data science student 👨‍💻.
